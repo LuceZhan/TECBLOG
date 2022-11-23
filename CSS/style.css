@@ -22,6 +22,7 @@ body {
 }
 
 #area-postagens {
+
 width: 660px;
 float: left;
 }
@@ -86,7 +87,7 @@ float: left;
 {
     font-size: 0.8em;
     padding: 5px;
-    border-bottom:1px solid black ;}
+    border-bottom:1px dotted #4e4e4e;}
 
 #cabecalho-area {
     background-color: #f7b600;
